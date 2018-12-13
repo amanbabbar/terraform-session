@@ -1,5 +1,5 @@
 # terraform-session
-Terraform Session files with AWS
+Terraform Session with AWS
 
 # Demo overview
 Demo Directory | Description
